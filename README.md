@@ -1,6 +1,6 @@
 # Signal-Processing-projects
 
-#Signal processing of signal from Frequency Delta Sigma Modulator
+# Signal processing of signal from Frequency Delta Sigma Modulator
 Signal is computed in the frequency domain, SQNR, SINAD and THD are calculated to assess the ADC's performance. 
 
 Low pass filter and blackman window are computed for the attempt to improve SQNR of the output.
