@@ -1,5 +1,6 @@
 # Signal-Processing-projects
-
+These are the signal processing projects I have done in the university. 
+The seismic signal processing project is from the Digital Signal Processing class and the FDSM project is from my master thesis.
 
 # Seismic signal processing 
 
