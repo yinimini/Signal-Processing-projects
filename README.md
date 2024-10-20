@@ -21,7 +21,7 @@ Here are some of the results:
 <img src="https://github.com/yinimini/Signal-Processing-projects/assets/32144515/216c4c99-dcb7-4855-b760-b40d951dadad" width="300">
 
 
-# Signal processing of signal from Frequency Delta Sigma Modulator
+# Signal processing of Frequency Delta Sigma Modulator (FDSM)
 
 I wanted to know: 
 
